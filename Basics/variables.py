@@ -49,6 +49,8 @@ print(h); # This will print "Python"
 print(i); # This will print "Is"
 print(j); # This will print "Cool"
 
-# You can also assign the same value to multiple variables
+# You can also assign the same value to multiple variables, example below.
 c = d = e = "Apples";
-# This will assign the string "Apples" to variable c, d, and e
+print(c); # This will print "Apples"
+print(d); # This will print "Apples"
+print(e); # This will print "Apples"
