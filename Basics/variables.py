@@ -50,5 +50,5 @@ print(i); # This will print "Is"
 print(j); # This will print "Cool"
 
 # You can also assign the same value to multiple variables
-c, d, e = "Apples";
+c = d = e = "Apples";
 # This will assign the string "Apples" to variable c, d, and e
